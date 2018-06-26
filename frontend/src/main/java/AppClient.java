@@ -25,6 +25,7 @@ import java.util.Objects;
 
 public class AppClient extends Application {
 
+// 123123
     private static final ObjectMapper mapper = new ObjectMapper();
 
     private static final AdminService rootsPanel = new AdminService();
